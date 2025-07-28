@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/main/resources/features",
         glue = {"stepdefinitions"},
+        //tags = "@Tagrun1",
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports.html",
@@ -15,6 +16,7 @@ import org.junit.runner.RunWith;
                 "junit:target/cucumber.xml"
         },
         monochrome = true
+
 )
 public class TestRunner {
 

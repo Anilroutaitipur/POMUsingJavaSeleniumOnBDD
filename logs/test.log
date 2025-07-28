@@ -1,0 +1,608 @@
+2025-07-28 03:48:29 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with single user *****
+2025-07-28 03:48:29 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:31 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:31 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:32 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:32 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:32 INFO  Login:47 - Entering username and password from config
+2025-07-28 03:48:32 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 03:48:32 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:32 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:32 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:32 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:32 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with single user
+2025-07-28 03:48:32 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:32 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:33 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 03:48:33 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:33 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:33 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:34 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:34 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:34 INFO  Login:54 - Entering credentials from scenario: Username = standard_user
+2025-07-28 03:48:34 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 03:48:34 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:34 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:34 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:34 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:34 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 03:48:34 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:34 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:35 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 03:48:35 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:35 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:35 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:36 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:36 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:36 INFO  Login:54 - Entering credentials from scenario: Username = problem_user
+2025-07-28 03:48:36 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 03:48:36 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:36 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:36 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:36 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:36 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 03:48:36 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:36 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:36 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 03:48:36 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:37 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:37 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:38 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:38 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:38 INFO  Login:54 - Entering credentials from scenario: Username = performance_glitch_user
+2025-07-28 03:48:38 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 03:48:38 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:38 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:38 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:43 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:43 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 03:48:43 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:43 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:43 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 03:48:43 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:44 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:44 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:45 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:45 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:45 INFO  Login:54 - Entering credentials from scenario: Username = error_user
+2025-07-28 03:48:45 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 03:48:45 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:45 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:45 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:45 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:45 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 03:48:45 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:45 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:45 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 03:48:45 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:46 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:46 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:46 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:46 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:46 INFO  Login:54 - Entering credentials from scenario: Username = visual_user
+2025-07-28 03:48:46 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 03:48:46 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:47 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:47 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:47 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:48:47 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 03:48:47 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:47 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:47 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should not work with this user *****
+2025-07-28 03:48:47 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:48 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:48 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 03:48:48 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:48:48 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:48:48 INFO  Login:54 - Entering credentials from scenario: Username = locked_out_user
+2025-07-28 03:48:48 INFO  Loginpage:34 - Entering username: locked_out_user
+2025-07-28 03:48:48 INFO  Loginpage:40 - Entering password
+2025-07-28 03:48:48 INFO  Login:61 - Clicking on Login button
+2025-07-28 03:48:48 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:48:48 WARN  Login:73 - Verifying failed login attempt
+2025-07-28 03:48:59 ERROR Homepage:32 - Shopping cart link not found
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='shopping_cart_link']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6d79b91832000f8596c8a52c6d4fd7ab, findElement {value=//a[@class='shopping_cart_link'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\MYPC~1\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62335}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62335/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d79b91832000f8596c8a52c6d4fd7ab
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.34.0.jar:?]
+	at com.sun.proxy.$Proxy36.isDisplayed(Unknown Source) ~[?:?]
+	at basepackage.Homepage.verifyShoppingCartLink(Homepage.java:28) ~[classes/:?]
+	at stepdefinitions.Login.user_should_not_navigate_to_home_page(Login.java:75) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-07-28 03:48:59 WARN  Login:76 - Login failed - Home page not loaded
+2025-07-28 03:48:59 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should not work with this user
+2025-07-28 03:48:59 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:48:59 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 03:48:59 INFO  Loginpage:33 - ***** Starting Scenario: User should be able to login using data from Excel *****
+2025-07-28 03:48:59 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 03:48:59 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:48:59 INFO  Login:82 - Reading login data from Excel file: testdata/LoginData.xlsx
+2025-07-28 03:49:00 INFO  Login:89 - Logging in with username: standard_user
+2025-07-28 03:49:00 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:01 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:01 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 03:49:01 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:01 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:01 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:01 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:01 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:01 INFO  Login:107 - Login success: true
+2025-07-28 03:49:02 INFO  Login:89 - Logging in with username: problem_user
+2025-07-28 03:49:02 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:03 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:03 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 03:49:03 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:03 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:03 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:03 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:03 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:03 INFO  Login:107 - Login success: true
+2025-07-28 03:49:04 INFO  Login:89 - Logging in with username: performance_glitch_user
+2025-07-28 03:49:04 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:05 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:05 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 03:49:05 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:05 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:10 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:10 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:10 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:10 INFO  Login:107 - Login success: true
+2025-07-28 03:49:10 INFO  Login:89 - Logging in with username: error_user
+2025-07-28 03:49:11 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:12 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:12 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 03:49:12 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:12 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:12 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:12 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:12 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:12 INFO  Login:107 - Login success: true
+2025-07-28 03:49:12 INFO  Login:89 - Logging in with username: visual_user
+2025-07-28 03:49:13 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:14 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:14 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 03:49:14 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:14 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:14 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:14 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:14 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:14 INFO  Login:107 - Login success: true
+2025-07-28 03:49:14 INFO  Login:89 - Logging in with username: standard_user
+2025-07-28 03:49:15 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:16 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:16 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 03:49:16 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:16 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:16 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:16 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:16 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:16 INFO  Login:107 - Login success: true
+2025-07-28 03:49:16 INFO  Login:89 - Logging in with username: problem_user
+2025-07-28 03:49:17 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:17 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:17 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 03:49:17 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:18 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:18 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:18 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:18 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:18 INFO  Login:107 - Login success: true
+2025-07-28 03:49:18 INFO  Login:89 - Logging in with username: performance_glitch_user
+2025-07-28 03:49:18 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:19 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:19 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 03:49:19 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:19 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:24 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:24 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:24 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:24 INFO  Login:107 - Login success: true
+2025-07-28 03:49:25 INFO  Login:89 - Logging in with username: error_user
+2025-07-28 03:49:25 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:26 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:26 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 03:49:26 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:26 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:26 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:26 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:26 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:26 INFO  Login:107 - Login success: true
+2025-07-28 03:49:26 INFO  Login:89 - Logging in with username: visual_user
+2025-07-28 03:49:27 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 03:49:28 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 03:49:28 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 03:49:28 INFO  Loginpage:40 - Entering password
+2025-07-28 03:49:28 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 03:49:28 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 03:49:28 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:28 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 03:49:28 INFO  Login:107 - Login success: true
+2025-07-28 03:49:28 INFO  Loginpage:62 - Scenario Passed: User should be able to login using data from Excel
+2025-07-28 03:49:28 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 03:49:28 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:05:45 INFO  ExtentReportManager:17 - Creating Extent Report at: D:\Ideaprojects\MyProjects\ExtentReportJavaAndCucumber/test-output/ExtentReport.html
+2025-07-28 15:05:45 INFO  ExtentReportManager:21 - Extent Report initialized successfully.
+2025-07-28 15:05:45 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with single user *****
+2025-07-28 15:05:45 INFO  ConfigPropertiesReader:19 - Loading configuration from: src/main/java/properties/config.properties
+2025-07-28 15:05:45 INFO  ConfigPropertiesReader:24 - Configuration loaded successfully.
+2025-07-28 15:05:45 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:05:47 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:05:47 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:05:48 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:05:48 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:05:48 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (99ae6752dc23243d06307ded63c77192)
+2025-07-28 15:05:48 INFO  Login:47 - Entering username and password from config
+2025-07-28 15:05:48 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 15:05:48 INFO  Loginpage:40 - Entering password
+2025-07-28 15:05:48 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:05:48 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:05:48 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:05:49 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:05:49 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with single user
+2025-07-28 15:05:49 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:05:49 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:05:49 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 15:05:49 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:05:50 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:05:50 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:05:51 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:05:51 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:05:51 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (d005c425a62a9ece22d26a220d4218f3)
+2025-07-28 15:05:51 INFO  Login:54 - Entering credentials from scenario: Username = standard_user
+2025-07-28 15:05:51 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 15:05:51 INFO  Loginpage:40 - Entering password
+2025-07-28 15:05:51 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:05:51 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:05:51 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:05:51 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:05:51 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 15:05:51 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:05:51 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:05:51 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 15:05:51 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:05:52 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:05:52 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:05:52 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:05:52 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:05:52 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (a933246fcf9fe1982163c3b83e000d93)
+2025-07-28 15:05:52 INFO  Login:54 - Entering credentials from scenario: Username = problem_user
+2025-07-28 15:05:52 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 15:05:53 INFO  Loginpage:40 - Entering password
+2025-07-28 15:05:53 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:05:53 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:05:53 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:05:53 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:05:53 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 15:05:53 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:05:53 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:05:53 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 15:05:53 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:05:54 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:05:54 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:05:54 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:05:54 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:05:54 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (b5fdf0a436742ce2928ff3e200874b16)
+2025-07-28 15:05:54 INFO  Login:54 - Entering credentials from scenario: Username = performance_glitch_user
+2025-07-28 15:05:54 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 15:05:54 INFO  Loginpage:40 - Entering password
+2025-07-28 15:05:54 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:05:54 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:00 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:06:00 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:00 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 15:06:00 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:06:00 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:06:00 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 15:06:00 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:06:01 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:01 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:06:01 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:01 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:01 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (129fdd290d9d8a50ff6bb35ddb92abd4)
+2025-07-28 15:06:01 INFO  Login:54 - Entering credentials from scenario: Username = error_user
+2025-07-28 15:06:01 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 15:06:01 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:01 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:06:01 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:02 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:06:02 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:02 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 15:06:02 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:06:02 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:06:02 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should work with multiple users *****
+2025-07-28 15:06:02 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:06:02 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:02 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:06:03 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:03 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:03 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (2b53a9bc53def0c93eee5038b5e6be29)
+2025-07-28 15:06:03 INFO  Login:54 - Entering credentials from scenario: Username = visual_user
+2025-07-28 15:06:03 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 15:06:03 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:03 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:06:03 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:03 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:06:03 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:03 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should work with multiple users
+2025-07-28 15:06:03 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:06:03 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:06:04 INFO  Loginpage:33 - ***** Starting Scenario: Checking login functionality should not work with this user *****
+2025-07-28 15:06:04 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:06:04 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:04 INFO  Login:34 - Navigating to login page: https://www.saucedemo.com
+2025-07-28 15:06:05 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:05 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:05 INFO  WaitClass:17 - WaitClass initialized for driver: ChromeDriver: chrome on windows (3287a9aa8d9b24027242e295220b2c87)
+2025-07-28 15:06:05 INFO  Login:54 - Entering credentials from scenario: Username = locked_out_user
+2025-07-28 15:06:05 INFO  Loginpage:34 - Entering username: locked_out_user
+2025-07-28 15:06:05 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:05 INFO  Login:61 - Clicking on Login button
+2025-07-28 15:06:05 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:05 WARN  Login:73 - Verifying failed login attempt
+2025-07-28 15:06:05 INFO  WaitClass:23 - Implicit wait applied: 10 seconds
+2025-07-28 15:06:15 ERROR Homepage:32 - Shopping cart link not found
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='shopping_cart_link']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3287a9aa8d9b24027242e295220b2c87, findElement {value=//a[@class='shopping_cart_link'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\MYPC~1\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63558}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63558/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3287a9aa8d9b24027242e295220b2c87
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.34.0.jar:?]
+	at com.sun.proxy.$Proxy36.isDisplayed(Unknown Source) ~[?:?]
+	at basepackage.Homepage.verifyShoppingCartLink(Homepage.java:28) ~[classes/:?]
+	at stepdefinitions.Login.user_should_not_navigate_to_home_page(Login.java:75) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:62) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:86) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:77) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147) ~[cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162) [cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145) [cucumber-core-7.22.0.jar:7.22.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:229) [cucumber-junit-7.22.1.jar:7.22.1]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-07-28 15:06:15 WARN  Login:76 - Login failed - Home page not loaded
+2025-07-28 15:06:15 INFO  Loginpage:62 - Scenario Passed: Checking login functionality should not work with this user
+2025-07-28 15:06:15 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:06:15 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
+2025-07-28 15:06:16 INFO  Loginpage:33 - ***** Starting Scenario: User should be able to login using data from Excel *****
+2025-07-28 15:06:16 INFO  Loginpage:36 - Launching browser: chrome
+2025-07-28 15:06:16 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:16 INFO  Login:82 - Reading login data from Excel file: testdata/LoginData.xlsx
+2025-07-28 15:06:16 INFO  ExcelReader:19 - Reading Excel file from path: testdata/LoginData.xlsx, sheet: Sheet1
+2025-07-28 15:06:17 INFO  ExcelReader:26 - Total rows found (including header): 11
+2025-07-28 15:06:17 INFO  Login:89 - Logging in with username: standard_user
+2025-07-28 15:06:17 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:18 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:18 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 15:06:18 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:18 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:18 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:18 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:18 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:18 INFO  Login:107 - Login success: true
+2025-07-28 15:06:19 INFO  Login:89 - Logging in with username: problem_user
+2025-07-28 15:06:19 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:20 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:20 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 15:06:20 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:20 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:20 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:20 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:20 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:20 INFO  Login:107 - Login success: true
+2025-07-28 15:06:20 INFO  Login:89 - Logging in with username: performance_glitch_user
+2025-07-28 15:06:21 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:22 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:22 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 15:06:22 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:22 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:27 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:27 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:27 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:27 INFO  Login:107 - Login success: true
+2025-07-28 15:06:27 INFO  Login:89 - Logging in with username: error_user
+2025-07-28 15:06:28 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:29 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:29 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 15:06:29 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:29 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:29 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:29 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:29 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:29 INFO  Login:107 - Login success: true
+2025-07-28 15:06:30 INFO  Login:89 - Logging in with username: visual_user
+2025-07-28 15:06:30 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:31 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:31 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 15:06:31 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:31 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:31 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:31 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:31 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:31 INFO  Login:107 - Login success: true
+2025-07-28 15:06:31 INFO  Login:89 - Logging in with username: standard_user
+2025-07-28 15:06:32 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:33 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:33 INFO  Loginpage:34 - Entering username: standard_user
+2025-07-28 15:06:33 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:33 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:33 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:33 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:33 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:33 INFO  Login:107 - Login success: true
+2025-07-28 15:06:33 INFO  Login:89 - Logging in with username: problem_user
+2025-07-28 15:06:34 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:35 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:35 INFO  Loginpage:34 - Entering username: problem_user
+2025-07-28 15:06:35 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:35 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:35 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:35 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:35 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:35 INFO  Login:107 - Login success: true
+2025-07-28 15:06:35 INFO  Login:89 - Logging in with username: performance_glitch_user
+2025-07-28 15:06:36 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:37 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:37 INFO  Loginpage:34 - Entering username: performance_glitch_user
+2025-07-28 15:06:37 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:37 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:42 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:42 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:42 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:42 INFO  Login:107 - Login success: true
+2025-07-28 15:06:42 INFO  Login:89 - Logging in with username: error_user
+2025-07-28 15:06:43 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:44 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:44 INFO  Loginpage:34 - Entering username: error_user
+2025-07-28 15:06:44 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:44 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:44 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:44 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:44 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:44 INFO  Login:107 - Login success: true
+2025-07-28 15:06:44 INFO  Login:89 - Logging in with username: visual_user
+2025-07-28 15:06:45 INFO  BaseClass:22 - WebDriver instance set for thread: 1
+2025-07-28 15:06:46 INFO  Loginpage:29 - Loginpage initialized
+2025-07-28 15:06:46 INFO  Loginpage:34 - Entering username: visual_user
+2025-07-28 15:06:46 INFO  Loginpage:40 - Entering password
+2025-07-28 15:06:46 INFO  Loginpage:46 - Clicking on login button
+2025-07-28 15:06:46 INFO  Homepage:23 - Homepage initialized for driver thread: 1
+2025-07-28 15:06:46 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:46 INFO  Homepage:29 - Shopping cart link displayed: true
+2025-07-28 15:06:46 INFO  Login:107 - Login success: true
+2025-07-28 15:06:46 INFO  Loginpage:62 - Scenario Passed: User should be able to login using data from Excel
+2025-07-28 15:06:46 INFO  Loginpage:66 - Closing browser and quitting WebDriver
+2025-07-28 15:06:46 INFO  BaseClass:29 - Quitting WebDriver for thread: 1
